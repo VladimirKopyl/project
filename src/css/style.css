@@ -1,0 +1,40 @@
+/* line 8, ../../../../homeworks/project_test/src/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 12, ../../../../homeworks/project_test/src/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 14, ../../../../homeworks/project_test/src/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 16, ../../../../homeworks/project_test/src/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 18, ../../../../homeworks/project_test/src/sass/style.sass */
+.block_color {
+  background-color: #fff;
+}
+
+/* line 20, ../../../../homeworks/project_test/src/sass/style.sass */
+.block_color button {
+  width: 250px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
